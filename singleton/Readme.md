@@ -4,7 +4,7 @@
 ### Descrição: ###
 O Singleton é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
 
-### Aplicabilidade ###
+### Aplicabilidade: ###
 O Singleton deve ser usado quando uma classe precisa ter somente uma instância disponível em todo seu programa
 
 Também pode ser usado quando você perceber que esta usando variáveis globais para manter partes importantes do programa, como variáveis de configuração que são usadas por toda a aplicação
