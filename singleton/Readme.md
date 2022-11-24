@@ -22,3 +22,6 @@ Melhora a leitura do código, tendo mente que o Singleton, apesar de ser um padr
 ### Conclusão: ###
 Recomendo utilizar o Singleton na circustância de que a classe que está sendo utilizada precisa somente de uma instância no projeto.
 Ter somente uma instância sendo utilizada devido a quantidade de usuários ou a alguma limitação atual do software não implica em sempre ter de utilizar somente uma instância.
+
+### Link para o vídeo: ###
+https://drive.google.com/drive/folders/1vD4XHRyjnOxGmx0N8QzBzAs03jz-Q2-j?usp=sharing
